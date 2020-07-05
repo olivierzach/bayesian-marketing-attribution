@@ -3,7 +3,7 @@
 Project repository for ISYE 6420 Bayesian Modeleing and Inference course. Goal of this project was to apply Bayesian analysis to a real-world data set. The data for this project focused on Marketing Attribution for a SaaS company. Aim was to determine, through Bayesian analysis, which marketing channels are most valuable (worth investing more in) to sales conversion.
 
 Project write-up:  
-  - `project_writeup.pdf`: https://github.com/olivierzach/bayesian_marketing_attribution/blob/master/references/project_writeup.pdf
+  - [project_writeup](https://github.com/olivierzach/bayesian_marketing_attribution/blob/master/references/project_writeup.pdf)
 
 # Data Summary
 
