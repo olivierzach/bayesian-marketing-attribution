@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07101b"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="25%" cy="18%" r="80%">
+    <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.20"/>
+    <stop offset="0.62" stop-color="#7dd3fc" stop-opacity="0.04"/>
+    <stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="760" fill="url(#bg)"/>
+<rect width="1200" height="760" fill="url(#glow)"/>
+<rect x="56" y="56" width="1088" height="648" rx="24" fill="rgba(255,255,255,0.025)" stroke="rgba(255,255,255,0.10)"/>
+<path d="M150 575 H1045 M150 575 V135" stroke="rgba(255,255,255,0.16)" stroke-width="2"/><rect x="180" y="215" width="70" height="360" rx="8" fill="#5eead4" opacity="0.55"/><text x="215" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">pinter</text><rect x="295" y="224.66263275824406" width="70" height="350.33736724175594" rx="8" fill="#5eead4" opacity="0.5850000000000001"/><text x="330" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">salesf</text><rect x="410" y="254.3598200951883" width="70" height="320.6401799048117" rx="8" fill="#7dd3fc" opacity="0.6200000000000001"/><text x="445" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">google</text><rect x="525" y="354.3555881762848" width="70" height="220.6444118237152" rx="8" fill="#7dd3fc" opacity="0.655"/><text x="560" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">linked</text><rect x="640" y="356.81132911483087" width="70" height="218.18867088516913" rx="8" fill="#7dd3fc" opacity="0.6900000000000001"/><text x="675" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">bing</text><rect x="755" y="410.33278879053114" width="70" height="164.6672112094689" rx="8" fill="#7dd3fc" opacity="0.7250000000000001"/><text x="790" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">youtub</text><rect x="870" y="424.87423642347693" width="70" height="150.12576357652307" rx="8" fill="#7dd3fc" opacity="0.76"/><text x="905" y="615" text-anchor="middle" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,monospace" font-size="18">facebo</text><text x="150" y="112" fill="#5eead4" font-family="ui-monospace,monospace" font-size="24">channel conversion rates</text>
+<text x="88" y="675" fill="rgba(231,231,234,0.72)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="28">bayesian-marketing-attribution</text>
+</svg>
